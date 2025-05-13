@@ -65,4 +65,3 @@
 
 ---
 
-> *“L’informatique, c’est de la logique, mais la passion la rend magique.”* 💡
