@@ -2,6 +2,7 @@
 
 ---
 🎯 Actuellement à la recherche d'une alternance à **Lyon** ou alentours pour septembre 2025, dans le domaine de l’**administration réseaux** et de la **cybersécurité**.
+
 ---
 ## 💼 Expériences professionnelles
 
