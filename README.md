@@ -19,19 +19,34 @@
 
 ## 🧠 Compétences techniques
 
-- 🔒 Sécurité réseau : Firewalls, supervision, authentification par clés
-- 🖥️ Systèmes : Linux, Windows, Windows Server 2019
-- 🌐 Réseau : Cisco, VMWare, Ubuntu
-- 💻 Dev : C, C++, mini sites en PHP, projets GitHub
-- 📷 Raspberry Pi : hébergement de solutions maison
+### 🔒 Cybersécurité
+- Gestion des accès, pare-feux (pfSense, UFW)
+- Analyse de vulnérabilités avec Wireshark
 
----
+### 🌐 Réseaux & Télécom
+- Configuration de VLAN, routage, DNS, DHCP
+- Mise en place de topologies réseau (modèle OSI/TCP-IP)
+- Cisco Packet Tracer & configuration de switchs/routeurs
 
-## 🌱 En cours d'apprentissage
+### 🖥️ Systèmes & Virtualisation
+- Linux (Ubuntu, Debian), Windows Server 2019, Active Directory
+- Virtualisation avec VMware, VirtualBox
+- Scripts shell, planification de tâches, supervision
 
-- Dev Fullstack et mobile
-- Solutions SecOps avancées
-- Infrastructure réseau en entreprise
+### 💻 Développement & Web
+- Langages : C, C++, PHP
+- Web : HTML, CSS, JavaScript de base, mini sites internes
+- Requêtes SQL et bases de données simples
+
+### 📡 Matériel & Électronique
+- Microcontrôleurs, montages simples
+- Déploiement physique de postes, câblage réseau RJ45
+- Diagnostic matériel & mise en service d’équipements
+
+### 🧰 Outils et environnements
+- Git / GitHub pour le versioning
+- Supervision : Zabbix, GLPI,
+- Raspberry Pi : hébergement local, solutions embarquées
 
 ---
 
