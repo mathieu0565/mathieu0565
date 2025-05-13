@@ -1,4 +1,4 @@
-# 👋 Hello, moi c’est Mathieu BESSAIRE
+# 👋 Mathieu BESSAIRE
 
 🎓 Actuellement en deuxième année de **BTS CIEL** *(Cybersécurité, Informatique et Réseaux, Électronique)* à l’**IRUP de Saint-Étienne**  
 🎯 Objectif : Devenir expert en administration réseau et sécurité informatique  
