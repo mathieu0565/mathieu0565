@@ -58,10 +58,4 @@
 
 ---
 
-## 🧩 Loisirs
-
-🥁 9 ans de batterie en groupe  
-🚵‍♂️ VTT en solo ou en équipe
-
----
 
