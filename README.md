@@ -1,11 +1,5 @@
 <img src="https://raw.githubusercontent.com/mathieu0565/mathieu0565/main/github_mathieu_bessaire.png" alt="Bannière GitHub Mathieu Bessaire" width="100%">
 
-
-🎓 Actuellement en deuxième année de **BTS CIEL** *(Cybersécurité, Informatique et Réseaux, Électronique)* à l’**IRUP de Saint-Étienne**  
-🎯 Objectif : Devenir expert en administration réseau et sécurité informatique  
-📅 En septembre 2025, j’intègre le **Bachelor 3 Admin Réseaux & SecOps** à l’**IPSSI**  
-🔁 Formation en **alternance** : 3 semaines en entreprise / 1 semaine en école
-
 ---
 
 ## 💼 Expériences professionnelles
