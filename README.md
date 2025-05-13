@@ -10,8 +10,9 @@
 ## 💼 Expériences professionnelles
 
 - **Technicien informatique** – Prismaflex International (juin 2023 - août 2025)  
-  🔧 Maintenance matériel, panneaux LED, développement PHP (API mairie), site caméra sur Raspberry Pi
+  🔧 Maintenance matériel, panneaux LED, développement PHP (API mairie),
 - **Agent de maintenance automaticien** – Verallia (mai - juillet 2022)
+  🔧 site caméra sur Raspberry Pi
 - **Stage réseau** – Autoroutes du Sud (Vinci) (mai 2021)  
   🖥️ Surveillance et maintenance du réseau informatique
 
