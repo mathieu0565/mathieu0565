@@ -1,4 +1,5 @@
-# 👋 Mathieu BESSAIRE
+<img src="https://raw.githubusercontent.com/mathieu0565/mathieu0565/main/github_mathieu_bessaire.png" alt="Bannière GitHub Mathieu Bessaire" width="100%">
+
 
 🎓 Actuellement en deuxième année de **BTS CIEL** *(Cybersécurité, Informatique et Réseaux, Électronique)* à l’**IRUP de Saint-Étienne**  
 🎯 Objectif : Devenir expert en administration réseau et sécurité informatique  
