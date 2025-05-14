@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/mathieu0565/mathieu0565/main/github_mathieu_bessaire.png" alt="Bannière GitHub Mathieu Bessaire" width="100%">
 
 ---
 🎯 Actuellement à la recherche d'une alternance à **Lyon** ou alentours pour septembre 2025, dans le domaine de l’**administration réseaux** et de la **cybersécurité**.
